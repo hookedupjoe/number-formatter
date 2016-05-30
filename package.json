@@ -1,0 +1,27 @@
+{
+  "name": "@username/number-formatter",
+  "version": "1.0.0",
+  "description": "My First Demo Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hookedupjoe/number-formatter.git"
+  },
+  "keywords": [
+    "node.js",
+    "demos"
+  ],
+  "author": "Joseph Francis <joe@hookedup.com> (http://www.hookedup.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hookedupjoe/number-formatter/issues"
+  },
+  "homepage": "https://github.com/hookedupjoe/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
