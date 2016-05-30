@@ -1,5 +1,5 @@
 {
-  "name": "@username/number-formatter",
+  "name": "hookedupjoe-number-formatter",
   "version": "1.0.0",
   "description": "My First Demo Library",
   "main": "index.js",
@@ -23,5 +23,9 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }
